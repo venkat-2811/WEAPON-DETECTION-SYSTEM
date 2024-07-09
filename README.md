@@ -71,7 +71,8 @@ Depending on your use case, run the appropriate script:
 
 The following image demonstrates the output of the YOLOv3 model, showing bounding boxes and labels for detected objects:
 
-![Sample Output](https://github.com/GaviniShasank/cmr_opensource/assets/130299325/7d7e3f96-2c43-4b0e-a6f4-9a0ec38037ae)
+![341933578-7d7e3f96-2c43-4b0e-a6f4-9a0ec38037ae](https://github.com/venkat-2811/WEAPON-DETECTION-SYSTEM/assets/147246984/aa55d2f7-d279-4972-85e9-3c16637d7fc0)
+
 
 By following the steps outlined above, you can execute the code and perform real-time weapon detection using either a webcam or a video file.
 
@@ -88,21 +89,9 @@ For further assistance or inquiries, please reach out via the repository's conta
 DESCRIPTION
 ------------
 This project is a real-time weapon detection system utilizing OpenCV and YOLO (You Only Look Once) object detection framework. The system is designed to detect various weapons such as knives, guns, and bombs using a pre-trained YOLOv3 model. The implementation involves loading the YOLO model with custom-trained weights and configuration files, capturing live video feed from the camera, and processing each frame to detect and highlight weapons. The detection results are displayed on the screen with bounding boxes and labels around the detected weapons. This tool is potentially useful for enhancing security measures in public spaces by providing an automated method for weapon detection.
-![sample-2](https://github.com/charann29/cmr_opensource/assets/130299325/02732cda-5175-47bc-86ef-31f15307e2f0)
+
+![341661359-02732cda-5175-47bc-86ef-31f15307e2f0](https://github.com/venkat-2811/WEAPON-DETECTION-SYSTEM/assets/147246984/159229ec-db56-416a-a665-87417d69a477)
+
 
 here is the video for weapon detection using yolo: -
 https://github.com/charann29/cmr_opensource/assets/130299325/32dcf337-e16e-4c4a-aedd-026f7dbea1b6
-
-here is the video for weapon detection using OpenCV -
-
-https://github.com/charann29/cmr_opensource/assets/130299325/5bfd9844-9d7d-45fd-99d1-e57488cb8a31
-
-
-
-
-
-Download weight: https://drive.google.com/drive/folders/1g44ApwZcTKVfoHJxxN_caI23XezYCEg-?usp=sharing
-
-
-
-
